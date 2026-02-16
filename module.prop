@@ -1,0 +1,6 @@
+id=remoteAdbFirewall
+name=Remote ADB Firewall
+version=1.0
+versionCode=1
+author=Tahskajuha
+description=Restrict ADB over TCP to Tailscale interface only and initialize it over port 5555
