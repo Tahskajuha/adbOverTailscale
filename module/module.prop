@@ -1,5 +1,5 @@
-id=remoteAdbFirewall
-name=Remote ADB Firewall
+id=adbOverTailscale
+name=ADB Over Tailscale
 version=1.0
 versionCode=1
 author=Tahskajuha
